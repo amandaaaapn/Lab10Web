@@ -336,5 +336,3 @@ dengan menggunakan class library untuk form dan database connection.
 
    
 # Sekian dan Terima Kasih
-
-# Sekian dan Terima Kasih
